@@ -81,7 +81,7 @@ Tools                 : XAMPP.<br>
   </a>
   </p>
 </td>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/91269572?v=4" width="210px;" height="230px;"  alt=""/><br/><sub><b>Mohana Chaitanya</b></sub></a><br />
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/91269572?v=4" width="210px;" height="230px;"  alt=""/><br/><sub><b>Sanjeeva Reddy</b></sub></a><br />
    <br/>
    <p align="center">
    <a href="https://github.com/Sanju6272" alt="Github">
