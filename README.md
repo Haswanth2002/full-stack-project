@@ -1,7 +1,9 @@
 # Online Course Platform
 ## Table of Contents
 
-* **[Project Description](#problem-description)**
+* **[Problem Statement](#problem-statement)**
+
+* **[Project Description](#project-description)**
 
 * **[Objective](#objective)**
 
@@ -10,6 +12,8 @@
 * **[Tech stack](#tech-stack)**
 
 * **[References](#references)**
+
+### Problem Statement
 
 ### Project Description
 Because of covid, everyone in the world nowadays enjoys using devices. Education is transforming from offline to online. As a result, this software offers some of the most cutting-edge technologies at an affordable price. The application's payment method is straightforward, with several payment options available. Every technology course in this application will have a learning path.To learn everything in the course from beginner to advanced levels.
