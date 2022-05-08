@@ -7,6 +7,8 @@
 
 * **[Objective](#objective)**
 
+* **[Prerequisites](#Prerequisites)**
+
 * **[How to use](#how-to-use-the-project)**
 
 * **[Tech stack](#tech-stack)**
@@ -22,6 +24,10 @@ Because of covid, everyone in the world nowadays enjoys using devices. Education
 ### 🎯Objective
 The main goal of the application is to make that the course is available to those who are eager to learn new technologies at an affordable cost.
 <br>
+### 💻Prerequisites
+1. Install XAMPP web server
+2. Any Editor (Preferably VS Code or Sublime Text)
+3. Any web browser with latest version
 ### 📖How to use the Project
 Step 1: Download the xampp server for the php and MySQL. <br>
 Step 2: Download Zip file from the github.<br>
